@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Reference material (not part of the optio package)
+*.pdf
+*.xls
+*.xlsx
+*.vb
+*.zip
+markdown/
+markdown-rouah/
+option-pricing/
+option-pricing-*/
+extract_*.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
